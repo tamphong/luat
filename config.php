@@ -14,10 +14,10 @@ if ( ! defined( 'NV_MAINFILE' ) )
 
 $db_config['dbhost'] = "localhost";
 $db_config['dbport'] = "";
-$db_config['dbname'] = "luat";
-$db_config['dbuname'] = "root";
-$db_config['dbpass'] = "";
-$db_config['prefix'] = "nv3";
+$db_config['dbname'] = "luat234234234";
+$db_config['dbuname'] = "roo23423423423t";
+$db_config['dbpass'] = "12342134234";
+$db_config['prefix'] = "nv4234234233";
 
 $global_config['sitekey'] = "d9d7bf96076d22f17f5d07b01ce55e88";// Do not change sitekey!
 
